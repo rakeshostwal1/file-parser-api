@@ -17,3 +17,6 @@ The `/api/parseFile` accepts any of Doc, Text, CSV Or PDF files. The first line 
 `/api/parseFile` is a `POST` API and accepts input in `file` parameter.
 
 Any file uploaded other than Doc, Text, CSV Or PDF files format will return empty response
+
+## Sample files
+`Sample` folder contains couple of sample files that can be used for testing this application
